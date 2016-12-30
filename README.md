@@ -1,5 +1,5 @@
 # Algorithms
-Implementations of various algorithms in JAVA
+Algorithms and Data sreucrues in JAVA
 
 
 <p align="center">
