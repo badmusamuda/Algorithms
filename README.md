@@ -1,5 +1,5 @@
 # Algorithms
-Algorithms and Data sreucrues in JAVA
+Generic dynamic algorithms and Data sreucrues in JAVA
 
 
 <p align="center">
