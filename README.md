@@ -7,5 +7,8 @@ Generic dynamic algorithms and Data sreucrues in JAVA
     <img src="https://github.com/badmusamuda/Algorithms/blob/master/algo (3).png" />
 
   <p>
+      <img src="https://github.com/badmusamuda/Algorithms/blob/master/3.Stack.png	" />
+    <img src="https://github.com/badmusamuda/Algorithms/blob/master4.Queue.png" />
+
   </p>
   
