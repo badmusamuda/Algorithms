@@ -5,7 +5,7 @@ public class Node<T>
     T data;
      Node<T> nextNode;
 
-
+// Only Node
     Node (T data)
     {
         this(data,null);
