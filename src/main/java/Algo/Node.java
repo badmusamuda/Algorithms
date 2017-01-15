@@ -1,11 +1,10 @@
 package Algo;
-
+import java.util.*;
 public class Node<T>
 {
     T data;
      Node<T> nextNode;
 
-// Only Node
     Node (T data)
     {
         this(data,null);
@@ -25,10 +24,5 @@ public class Node<T>
     {
         return nextNode;
     }
-	
-	// My Only Node	// My Only Node	// My Only Node	
-	
-	// My Only Node	// My Only Node	// My Only Node	// My Only Node
-
 
 }
