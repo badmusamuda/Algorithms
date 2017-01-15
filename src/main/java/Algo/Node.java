@@ -1,4 +1,5 @@
 package Algo;
+import java.io.*;
 import java.util.*;
 public class Node<T>
 {
@@ -24,5 +25,11 @@ public class Node<T>
     {
         return nextNode;
     }
-
+	public static String getInput()
+	{
+		InputFileStream ifs = new InputFileStream(System.in);
+		BufferedReader br = new BufferedReader(ifs);
+		String content = br.readLine();
+		return content;
+	}
 }
