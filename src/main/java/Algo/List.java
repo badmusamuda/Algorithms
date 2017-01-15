@@ -27,6 +27,7 @@ public class List<T>
 
     public void addFromBack ( T thisdata )
     {
+    // Only add from back
         if ( isEmpty() )
             firstNode = lastNode = new Node<T>(thisdata);
         else
