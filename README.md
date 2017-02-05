@@ -1,5 +1,7 @@
-# Algorithms
-Generic dynamic algorithms and Data sreucrues in JAVA
+# Algorithm and Data Strcuture
+ Notebook  Java web app
+<center> <b> This is not a tutorial or copy paste code . It's is my own solution pattern for different Data Structure and Algorithm computational problem built from scratch using core Java and Java EE </b><br><br>
+<h5> The problem | task is set by me : To implement different algorithm to solve different real life problem</h5>
 
 
 <p align="center">
